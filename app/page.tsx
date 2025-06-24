@@ -100,7 +100,7 @@ export default function Portfolio() {
             </div>
 
             <div className="border-t border-gray-800 mt-8 pt-8 text-center">
-              <p className="text-gray-400">© 2024 Leonardo Dinale. Feito com 💜 e muito ☕</p>
+              <p className="text-gray-400">© 2025 Leonardo Dinale. Feito com 💜 e muito ☕</p>
               <p className="text-gray-500 text-sm mt-2">
                 "Ser irreconhecível a cada 90 dias — mais forte, mais inteligente e mais preparado."
               </p>

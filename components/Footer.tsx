@@ -62,7 +62,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-primary-foreground/20 mt-8 pt-8 text-center">
-          <p className="text-primary-foreground/60">© João. Todos os direitos reservados</p>
+          <p className="text-primary-foreground/60">© Leonardo Dinale. Todos os direitos reservados</p>
         </div>
       </div>
     </footer>
