@@ -160,7 +160,7 @@ export default function Hero() {
               <div className="relative w-80 h-80 lg:w-96 lg:h-96 rounded-full overflow-hidden border-4 border-white dark:border-gray-800 shadow-2xl">
                 <div className="absolute inset-0 bg-gradient-to-br from-blue-400/20 to-purple-500/20"></div>
                 <Image
-                  src="/images/hero.png"
+                  src="/images/hero_oi.png"
                   alt="Leonardo Dinale - Desenvolvedor Full Stack"
                   width={400}
                   height={400}
