@@ -170,11 +170,11 @@ export default function Hero() {
               </div>
 
               {/* Floating elements */}
-              <div className="absolute -top-4 -right-4 w-20 h-20 bg-gradient-to-r from-blue-500 to-purple-500 rounded-full flex items-center justify-center text-white font-bold text-sm animate-bounce shadow-lg">
-                Devlyn
+              <div className="absolute -top-4 -right-4 w-30 h-20 bg-gradient-to-r from-blue-500 to-purple-500 rounded-full flex items-center justify-center text-white font-bold text-sm animate-bounce shadow-lg">
+                CEO Devlyn
               </div>
               <div className="absolute -bottom-4 -left-4 w-16 h-16 bg-gradient-to-r from-green-500 to-blue-500 rounded-full flex items-center justify-center text-white font-bold text-xs animate-bounce delay-300 shadow-lg">
-                21
+                21 Anos
               </div>
             </div>
           </div>
