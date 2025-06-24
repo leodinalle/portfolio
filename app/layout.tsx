@@ -12,8 +12,8 @@ export const metadata: Metadata = {
   keywords: "desenvolvedor frontend, react, nextjs, typescript, portfolio, ui/ux",
   authors: [{ name: "João Silva" }],
   openGraph: {
-    title: "João Silva - Desenvolvedor Frontend",
-    description: "Portfólio profissional de João Silva, desenvolvedor especializado em React e Next.js",
+    title: "Leonardo Dinale - Desenvolvedor Frontend",
+    description: "Portfólio profissional de Leonardo Dinale, desenvolvedor full stack",
     type: "website",
   },
     generator: 'v0.dev'
