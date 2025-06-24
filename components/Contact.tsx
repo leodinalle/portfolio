@@ -28,7 +28,7 @@ const contactInfo = [
     icon: Briefcase,
     title: "Devlyn",
     value: "Minha Empresa",
-    href: "#",
+    href: "https://www.instagram.com/imdevlyn_/",
     color: "from-purple-500 to-pink-500",
   },
 ]

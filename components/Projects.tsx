@@ -35,7 +35,7 @@ const projects = [
     description:
       "Minha empresa de desenvolvimento web e marketing digital. Especializada em landing pages de alta conversão, automações e tráfego pago para pequenas empresas.",
     image: "/images/projects/devlyn.jpeg",
-    demoUrl: "#",
+    demoUrl: "https://www.instagram.com/imdevlyn_/",
     technologies: ["React", "Next.js", "Node.js", "Firebase"],
     category: "Empresa Própria",
     features: ["Landing Pages", "Automações", "Tráfego Pago", "Consultoria Digital"],
