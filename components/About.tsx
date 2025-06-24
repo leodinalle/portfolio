@@ -51,7 +51,7 @@ export default function About() {
             </span>
           </div>
           <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 dark:text-white mb-4">
-            Desenvolvedor • Empreendedor • Artista
+            Desenvolvedor • Empreendedor • Growth Hacker
           </h2>
           <p className="text-gray-600 dark:text-gray-400 max-w-3xl mx-auto text-lg leading-relaxed">
             Sou Leonardo Dinale, um desenvolvedor full stack com espírito empreendedor. Desde cedo me destaco pela
