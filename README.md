@@ -7,18 +7,6 @@ Portfólio pessoal desenvolvido com Next.js, TypeScript e Tailwind CSS. Site res
 ![TypeScript](https://img.shields.io/badge/TypeScript-5+-blue)
 ![Tailwind](https://img.shields.io/badge/Tailwind-3+-38bdf8)
 
-## 🌟 Demo
-
-🔗 **[Ver Portfolio Online](https://seu-portfolio.vercel.app)**
-
-## 📸 Screenshots
-
-### Desktop
-![Desktop Preview](/public/images/desktop-preview.png)
-
-### Mobile
-![Mobile Preview](/public/images/mobile-preview.png)
-
 ## 🛠️ Tecnologias Utilizadas
 
 - **Framework:** Next.js 14 (App Router)
