@@ -11,12 +11,13 @@ const skillsData = [
     subtitle: "Interfaces modernas e responsivas",
     icon: Code,
     skills: [
-      { name: "React.js", percentage: 95 },
-      { name: "Next.js", percentage: 90 },
-      { name: "TypeScript", percentage: 85 },
-      { name: "Tailwind CSS", percentage: 95 },
+      { name: "React.js", percentage: 65 },
+      { name: "Next.js", percentage: 50 },
+      { name: "TypeScript", percentage: 65 },
+      { name: "Tailwind CSS", percentage: 55 },
       { name: "HTML/CSS", percentage: 98 },
-      { name: "JavaScript", percentage: 95 },
+      { name: "JavaScript", percentage: 85 },
+      { name: "Vue.JS", percentage: 35 },
     ],
   },
   {
@@ -25,10 +26,10 @@ const skillsData = [
     subtitle: "APIs robustas e escaláveis",
     icon: Server,
     skills: [
-      { name: "Node.js", percentage: 85 },
-      { name: "Express.js", percentage: 80 },
-      { name: "Firebase", percentage: 90 },
-      { name: "REST APIs", percentage: 85 },
+      { name: "Node.js", percentage: 55 },
+      { name: "Express.js", percentage: 60 },
+      { name: "Firebase", percentage: 40 },
+      { name: "REST APIs", percentage: 75 },
     ],
   },
   {
@@ -37,9 +38,8 @@ const skillsData = [
     subtitle: "Apps nativos multiplataforma",
     icon: Smartphone,
     skills: [
-      { name: "Flutter", percentage: 85 },
-      { name: "Dart", percentage: 80 },
-      { name: "React Native", percentage: 75 },
+      { name: "Flutter", percentage: 60 },
+      { name: "React Native", percentage: 45 },
     ],
   },
   {
@@ -48,10 +48,9 @@ const skillsData = [
     subtitle: "Gerenciamento de dados",
     icon: Database,
     skills: [
-      { name: "MySQL", percentage: 85 },
-      { name: "Firestore", percentage: 90 },
-      { name: "Git/GitHub", percentage: 95 },
-      { name: "Figma", percentage: 80 },
+      { name: "MySQL", percentage: 55 },
+      { name: "Git/GitHub", percentage: 90 },
+      { name: "Figma", percentage: 40 },
     ],
   },
   {
@@ -72,7 +71,7 @@ const skillsData = [
     subtitle: "Processos automatizados",
     icon: Zap,
     skills: [
-      { name: "Zapier", percentage: 85 },
+      { name: "Zapier", percentage: 45 },
       { name: "APIs Integration", percentage: 90 },
       { name: "Chatbots", percentage: 80 },
       { name: "WordPress", percentage: 85 },
