@@ -40,6 +40,17 @@ const projects = [
     category: "Empresa Própria",
     features: ["Landing Pages", "Automações", "Tráfego Pago", "Consultoria Digital"],
   },
+   {
+    id: 4,
+    title: "Meu Portfolio Animado",
+    description:
+      "Uma apresentação interativa onde um personagem caminha pela tela conforme o usuário faz scroll, apresentando minhas habilidades de forma dinâmica.",
+    image: "/images/projects/portfolioanimado.jpg",
+    demoUrl: "https://portfolio-animado-pied.vercel.app/",
+    technologies: ["Vue.js", "Vite", "JavaScript ES6+", "CSS3"],
+    category: "Portfolio Interativo",
+    features: [" Sistema de detecção de scroll", "Efeito parallax ", "Animações sincronizadas" , "Design Responsivo"],
+  },
 ]
 
 export default function Projects() {
