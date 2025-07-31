@@ -45,7 +45,7 @@ const projects = [
     title: "Meu Portfolio Animado",
     description:
       "Uma apresentação interativa onde um personagem caminha pela tela conforme o usuário faz scroll, apresentando minhas habilidades de forma dinâmica.",
-    image: "/images/projects/portfolioanimado.jpg",
+    image: "/images/projects/portfolioanimado.JPG",
     demoUrl: "https://portfolio-animado-pied.vercel.app/",
     technologies: ["Vue.js", "Vite", "JavaScript ES6+", "CSS3"],
     category: "Portfolio Interativo",
