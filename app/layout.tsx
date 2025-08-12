@@ -10,13 +10,13 @@ export const metadata: Metadata = {
   description:
     "Desenvolvedor Frontend especializado em React, Next.js e TypeScript. Criando experiências digitais modernas e funcionais.",
   keywords: "desenvolvedor frontend, react, nextjs, typescript, portfolio, ui/ux",
-  authors: [{ name: "João Silva" }],
+  authors: [{ name: "Leonardo Dinale" }],
   openGraph: {
     title: "Leonardo Dinale - Desenvolvedor Full Stack",
     description: "Portfólio profissional de Leonardo Dinale, desenvolvedor full stack",
     type: "website",
   },
-    generator: 'v0.dev'
+    generator: 'leo.dev'
 }
 
 export default function RootLayout({
